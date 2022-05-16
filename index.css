@@ -1,0 +1,42 @@
+body {
+    background-image: url(img/michal-parzuchowski-U8n_O7rEq7o-unsplash.jpg);
+    background-size: cover;
+    font-family: 'Kaushan Script', cursive;
+    font-weight: 100;
+    text-align: center;
+    margin-top: 100px;
+}
+
+h1 {
+    color: goldenrod;
+    font-size: 5rem;
+}
+
+#message-el {
+    color: antiquewhite;
+    font-size: 3rem;
+}
+
+#cards-el {
+    color: antiquewhite;
+    font-size: 2rem;
+}
+
+#sum-el {
+    color: antiquewhite;
+    font-size: 2rem;
+}
+
+button {
+    color: #016f32;
+    width: 250px;
+    background: goldenrod;
+    border-color: goldenrod;
+}
+
+#start-el, #newcard-el, #player-el {
+    color: #fff;
+    font-size: 2rem;
+    font-weight: bold;
+    border-radius: 15px;
+}
